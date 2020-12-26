@@ -1,0 +1,1 @@
+Example of upper : {$lowertext|upper}

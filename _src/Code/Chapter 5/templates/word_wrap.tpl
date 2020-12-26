@@ -1,0 +1,1 @@
+{$sometext|wordwrap:60|nl2br}

@@ -1,0 +1,1 @@
+The book costs BDT{$somevalue|string_format:"%.2f"}

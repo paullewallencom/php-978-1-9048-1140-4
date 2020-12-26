@@ -1,0 +1,1 @@
+{$sometext|strip_tags}

@@ -1,0 +1,1 @@
+{$somevalue|replace:"mice":"dogs"}
